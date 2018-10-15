@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/GA_Car_Scenario.unity
+  isLoaded: 1
+  isActive: 1
